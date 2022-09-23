@@ -4,10 +4,18 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/vaibh/AndroidStudioProjects/Employme/app/src/main/res/drawable/gradient_orange.xml" value="0.1" />
+        <entry key="..\:/Users/vaibh/AndroidStudioProjects/Employme/app/src/main/res/drawable/gradient_toolbar.xml" value="0.1815" />
         <entry key="..\:/Users/vaibh/AndroidStudioProjects/Employme/app/src/main/res/drawable/gradient_white.xml" value="0.1" />
-        <entry key="..\:/Users/vaibh/AndroidStudioProjects/Employme/app/src/main/res/layout/activity_main.xml" value="0.2971014492753623" />
+        <entry key="..\:/Users/vaibh/AndroidStudioProjects/Employme/app/src/main/res/drawable/listview_background.xml" value="0.1815" />
+        <entry key="..\:/Users/vaibh/AndroidStudioProjects/Employme/app/src/main/res/drawable/menu_icon.xml" value="0.112" />
+        <entry key="..\:/Users/vaibh/AndroidStudioProjects/Employme/app/src/main/res/layout/activity_list.xml" value="0.33" />
+        <entry key="..\:/Users/vaibh/AndroidStudioProjects/Employme/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/vaibh/AndroidStudioProjects/Employme/app/src/main/res/layout/activity_menu.xml" value="0.17553191489361702" />
+        <entry key="..\:/Users/vaibh/AndroidStudioProjects/Employme/app/src/main/res/layout/activity_search.xml" value="0.1" />
         <entry key="..\:/Users/vaibh/AndroidStudioProjects/Employme/app/src/main/res/layout/toolbar.xml" value="0.33" />
+        <entry key="..\:/Users/vaibh/AndroidStudioProjects/Employme/app/src/main/res/menu/menu.xml" value="0.1" />
         <entry key="..\:/Users/vaibh/AndroidStudioProjects/Employme/app/src/main/res/xml/main_toolbar.xml" value="0.33" />
+        <entry key="..\:/Users/vaibh/AndroidStudioProjects/Employme/app/src/main/res/xml/menu.xml" value="0.17553191489361702" />
       </map>
     </option>
   </component>

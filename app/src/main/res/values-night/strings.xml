@@ -7,8 +7,10 @@
     <string name="your_email">Your Email</string>
     <string name="google">google</string>
     <string name="facebook">facebook</string>
-    <string name="twitter">twitter</string>
+    <string name="linkedin">twitter</string>
     <string name="forgot_password">Forgot Password ?</string>
     <string name="login">LOGIN</string>
     <string name="or_sign_in_with">or Sign in with</string>
+    <string name="job_title_keywords_or_company">job title, keywords, or company</string>
+    <string name="city_or_province">city or province</string>
 </resources>

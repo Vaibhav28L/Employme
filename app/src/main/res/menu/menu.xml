@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".SearchActivity">
+
+    <item
+        android:id="@+id/overflowMenu"
+        android:icon="@drawable/menu_icon"
+        android:title=""
+        app:showAsAction="always">
+    <menu>
+        <item
+            android:id="@+id/Home"
+            android:icon="@drawable/arrow"
+            android:title="Home"
+            />
+        <item
+            android:id="@+id/Profile"
+            android:icon="@drawable/arrow"
+            android:title="Profile"
+            />
+        <item
+            android:id="@+id/My_jobs"
+            android:icon="@drawable/arrow"
+            android:title="My jobs"
+            />
+        <item
+            android:id="@+id/My_reviews"
+            android:icon="@drawable/arrow"
+            android:title="My reviews"
+            />
+        <item
+            android:id="@+id/Email_settings"
+            android:icon="@drawable/arrow"
+            android:title="Email settings"
+            />
+        <item
+            android:id="@+id/Settings"
+            android:icon="@drawable/arrow"
+            android:title="Settings"
+            />
+        <item
+            android:id="@+id/Region_and_language"
+            android:icon="@drawable/arrow"
+            android:title="Region and language"
+            />
+        <item
+            android:id="@+id/help_centre"
+            android:icon="@drawable/arrow"
+            android:title="Help centre"
+            />
+
+        <item
+            android:id="@+id/sign_out"
+            android:icon="@drawable/arrow"
+            android:title="Sign out"
+            />
+        <item
+            android:id="@+id/exit"
+            android:icon="@drawable/exit_icon"
+            android:title="Exit"
+            />
+    </menu>
+
+    </item>
+</menu>
